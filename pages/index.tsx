@@ -10,4 +10,3 @@ import getAllProducts from '@bigcommerce/storefront-data-hooks/api/operations/ge
 import getSiteInfo from '@bigcommerce/storefront-data-hooks/api/operations/get-site-info'
 import getAllPages from '@bigcommerce/storefront-data-hooks/api/operations/get-all-pages'
 alert("ok")
-Home.Layout = Layout
